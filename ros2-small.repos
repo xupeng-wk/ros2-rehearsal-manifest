@@ -1,0 +1,29 @@
+repositories:
+  ament/ament_package:
+    type: git
+    url: https://github.com/ament/ament_package.git
+    version: humble
+  ament/ament_index:
+    type: git
+    url: https://github.com/ament/ament_index.git
+    version: humble
+  ros2/rcutils:
+    type: git
+    url: https://github.com/ros2/rcutils.git
+    version: humble
+  ros2/rcpputils:
+    type: git
+    url: https://github.com/ros2/rcpputils.git
+    version: humble
+  ros2/rcl:
+    type: git
+    url: https://github.com/ros2/rcl.git
+    version: humble
+  ros2/rosidl:
+    type: git
+    url: https://github.com/ros2/rosidl.git
+    version: humble
+  eProsima/Fast-CDR:
+    type: git
+    url: https://github.com/eProsima/Fast-CDR.git
+    version: v1.0.24
